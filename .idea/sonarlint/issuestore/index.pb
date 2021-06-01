@@ -21,8 +21,6 @@ Kapp/src/main/java/com/example/runningtracker/ui/viewModels/MainViewModel.kt,f\
 Mapp/src/main/java/com/example/runningtracker/ui/fragments/SettingsFragment.kt,9\d\9da48f20aa6dea8b2a98884528cc99f6b0126bed
 
 Oapp/src/main/java/com/example/runningtracker/ui/fragments/StatisticsFragment.kt,4\d\4d013d5f898048aa81a29a47e14ffd3649ca5486
-u
-Eapp/src/main/java/com/example/runningtracker/other/TrackingUtility.kt,2\a\2acc0ca782531d61314d37349f97476ada5c5830
 z
 Japp/src/main/java/com/example/runningtracker/ui/fragments/SetupFragment.kt,0\6\069caebea25b1c0b267accb9046a54e180b8c47f
 Å
