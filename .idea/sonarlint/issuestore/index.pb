@@ -7,8 +7,6 @@ m
 =app/src/main/java/com/example/runningtracker/db/Converters.kt,8\c\8c0c59ffe870c6c3e5292c1e448058a062c89344
 r
 Bapp/src/main/java/com/example/runningtracker/db/RunningDatabase.kt,4\7\473618c84bfa9011bddc7b7a8ccef83abf85253f
-l
-<app/src/main/java/com/example/runningtracker/di/AppModule.kt,1\e\1e9333f1b0d22c8ddfbf8c4d454b6e3315f4b8f6
 f
 6app/src/main/java/com/example/runningtracker/db/Run.kt,8\6\86976db3418368ecbb66feeb9a963744fe2de24a
 o
