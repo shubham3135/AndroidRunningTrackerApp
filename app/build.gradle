@@ -67,8 +67,6 @@ dependencies {
     // MPAndroidChart
     implementation 'com.github.PhilJay:MPAndroidChart:v3.1.0'
 
-//    implementation 'android.arch.lifecycle:extensions:1.1.1'
-
     // Architectural Components
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1"
     implementation("androidx.lifecycle:lifecycle-service:2.3.1")
