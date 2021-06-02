@@ -13,9 +13,3 @@ o
 ?app/src/main/java/com/example/runningtracker/BaseApplication.kt,4\5\455c464360eff3dd6c1f5bac39f69132599f6c2c
 y
 Iapp/src/main/java/com/example/runningtracker/repository/MainRepository.kt,2\5\255f26cc9ef7fd0227ebc8bfe9a0e3de5383373d
-}
-Mapp/src/main/java/com/example/runningtracker/ui/fragments/SettingsFragment.kt,9\d\9da48f20aa6dea8b2a98884528cc99f6b0126bed
-
-Oapp/src/main/java/com/example/runningtracker/ui/fragments/StatisticsFragment.kt,4\d\4d013d5f898048aa81a29a47e14ffd3649ca5486
-Å
-Qapp/src/main/java/com/example/runningtracker/ui/viewModels/StatisticsViewModel.kt,8\5\85fa19bbaa50114cbf9a193e8fa597bc26021a00
